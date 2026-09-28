@@ -1,5 +1,3 @@
 # One host per line. Lines starting with # are ignored.
 github.com
 google.com
-expired.badssl.com
-this-host-does-not-exist.example
